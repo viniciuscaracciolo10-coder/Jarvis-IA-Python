@@ -1,0 +1,17 @@
+# Chaves de API e Configurações Secretas
+Config.py
+
+# Memória e Banco de Dados
+memoria.json
+*.db
+
+# Arquivos Temporários de Áudio e Imagem
+input.wav
+temp_jarvis_voice_*.mp3
+Imagens_Jarvis/
+Modelos_3D/
+
+# Ambientes Virtuais e Cache
+venv_visao/
+__pycache__/
+*.pyc
